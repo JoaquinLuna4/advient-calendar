@@ -4,15 +4,11 @@ Este proyecto es una demostración de mis habilidades en desarrollo frontend, cr
 
 El objetivo de este mini-proyecto es mostrar un prototipo funcional de un calendario de adviento, con la esperanza de poder contribuir al proyecto real. Estoy muy entusiasmado con la propuesta y la oportunidad de trabajar con Midudev y el equipo.
 
-## Deploy
-
-Puedes ver el proyecto desplegado en Vercel aquí: [https://advient-calendar.vercel.app/](https://advient-calendar.vercel.app/)
-
 ## Cómo ejecutar el proyecto localmente
 
 1.  Clona el repositorio:
     ```bash
-    git clone [https://github.com/JoaquinLuna4/advient-calendar.git] (https://github.com/JoaquinLuna4/advient-calendar.git)
+    git clone https://github.com/JoaquinLuna4/advient-calendar.git
     ```
 2.  Instala las dependencias:
     ```bash
@@ -26,14 +22,13 @@ Puedes ver el proyecto desplegado en Vercel aquí: [https://advient-calendar.ver
 
 ## Tech Stack
 
--   [Next.js](https://nextjs.org/) - Framework de React
--   [Tailwind CSS](https://tailwindcss.com/) - Framework de CSS
--   [TypeScript](https://www.typescriptlang.org/) - Superset de JavaScript
--   [shadcn/ui](https://ui.shadcn.com/) - Componentes de UI
+- [Next.js](https://nextjs.org/) - Framework de React
+- [Tailwind CSS](https://tailwindcss.com/) - Framework de CSS
+- [TypeScript](https://www.typescriptlang.org/) - Superset de JavaScript
+- [shadcn/ui](https://ui.shadcn.com/) - Componentes de UI
 
 ## Autor
 
--   **Joaquin Luna**
-    -   GitHub: [@JoaquinLuna4](https://github.com/JoaquinLuna4)
-    -   LinkedIn: [linkedin.com/in/joaquin-luna](https://linkedin.com/in/joaquin-luna)
-    -   Portfolio: [portfolio-joa.web.app](https://portfolio-joa.web.app/)
+- **Joaquin Luna**
+  - GitHub: [@JoaquinLuna4](https://github.com/JoaquinLuna4)
+  - Portfolio: [portfolio-joa.web.app](https://portfolio-joa.web.app/)
